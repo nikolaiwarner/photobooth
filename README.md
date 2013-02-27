@@ -6,6 +6,7 @@ a raspberry pi based photo booth that's super cheap to build but an amazing expe
 
 ## Raspberry Pi Setup:
 
+On a fresh installation of a Raspberry Pi:
 ```
 sudo apt-get update
 sudo apt-get install git
